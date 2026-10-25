@@ -1,3 +1,3 @@
 #y2quiche
 
-![profit](./app/images/1_oaJlY6rLTVKnCCwrjCItMA.jpg)
+![profit](./app/imgs/1_oaJlY6rLTVKnCCwrjCItMA.jpg)
